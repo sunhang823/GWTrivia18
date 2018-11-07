@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="hello_world">Hello World!!!!</string>
+    <string name="goodbye_world">Goodbye World</string>
+    <string name="high_score_placeholder">High Score: 6</string>
+    <string name="play_button_text">Play</string>
+    <string name="high_scores_button_text">High Scores</string>
+    <string name="correct">Yay, you got it right!</string>
+    <string name="wrong">Boooooo</string>
+    <string name="skip">Skip</string>
+    <string name="score">Score: %d</string>
+    <string name="share">Share</string>
+    <string name="share_message">Check out my high score!: %d</string>
+    <string name="skip_used">Skip Already Used!</string>
+    <string name="permissions_granted">Location permission approved</string>
+    <string name="permissions_denied">Scores will not be saved with location</string>
+    <string name="location_not_found">Location couldn\'t be found</string>
+    <string name="no_location_permission">No location permission</string>
+</resources>
